@@ -17,4 +17,4 @@ Export your results to an HDF5 file
 Optimize the Model 
 
 Repeat the preprocessing steps in a new Jupyter notebook (4 points)
-Create a new neural network model, implementing at least 3 model optimization methods. I added additional neurons and layers and changed activation functions, which improved the accuracy.
+Create a new neural network model, implementing at least 3 model optimization methods. I binned by name instead of application type, added additional neurons and layers and changed activation functions, which improved the accuracy by 7.8%.
